@@ -5,6 +5,8 @@ AKB자막을 올리는곳입니당
 
 영상은 없고 자막만 올릴수 있음
 
+SRT로 올라간파일은 오역 수정이 바로바로 가능합니다! 바로 말씀해주시거나 직접 고쳐주세요
+
 
 This repository only deals with captions regarding AKB 48 groups
 
