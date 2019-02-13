@@ -8,6 +8,7 @@ AKB자막을 올리는곳입니당
 
 SRT로 올라간파일은 오역 수정이 바로바로 가능합니다! 바로 말씀해주시거나 직접 고쳐주세요
 
+https://1drv.ms/f/s!Au_oTWy5T3oseelZMkUwovj2J0U <-영상은 여기에
 
 This repository only deals with captions regarding AKB 48 groups
 
