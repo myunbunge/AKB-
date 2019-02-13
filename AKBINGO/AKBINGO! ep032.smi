@@ -1,0 +1,1328 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2008</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=101><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KORE<font color=#FFEB46>A
+<SYNC Start=201><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOR<font color=#FFEB46>EA
+<SYNC Start=301><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KO<font color=#FFEB46>REA
+<SYNC Start=401><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in K<font color=#FFEB46>OREA
+<SYNC Start=501><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in <font color=#FFEB46>KOREA
+<SYNC Start=601><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC i<font color=#FFEB46>n KOREA
+<SYNC Start=701><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC <font color=#FFEB46>in KOREA
+<SYNC Start=801><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLI<font color=#FFEB46>C in KOREA
+<SYNC Start=901><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOL<font color=#FFEB46>IC in KOREA
+<SYNC Start=1001><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HO<font color=#FFEB46>LIC in KOREA
+<SYNC Start=1101><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>H<font color=#FFEB46>OLIC in KOREA
+<SYNC Start=1201><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=1301><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB4<font color=#FF8C8C>8 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=1401><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB<font color=#FF8C8C>48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=1501><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AK<font color=#FF8C8C>B48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=1601><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>A<font color=#FF8C8C>KB48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=1701><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=1801><P Class=KRCC>
+<b><font color=#228B22>네이<font color=#6DD66D>버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=1901><P Class=KRCC>
+<b><font color=#228B22>네<font color=#6DD66D>이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=2001><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=2101><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KORE<font color=#FFA500>A
+<SYNC Start=2201><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KOR<font color=#FFA500>EA
+<SYNC Start=2301><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KO<font color=#FFA500>REA
+<SYNC Start=2401><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in K<font color=#FFA500>OREA
+<SYNC Start=2501><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in <font color=#FFA500>KOREA
+<SYNC Start=2601><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC i<font color=#FFA500>n KOREA
+<SYNC Start=2701><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC <font color=#FFA500>in KOREA
+<SYNC Start=2801><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLI<font color=#FFA500>C in KOREA
+<SYNC Start=2901><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOL<font color=#FFA500>IC in KOREA
+<SYNC Start=3001><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HO<font color=#FFA500>LIC in KOREA
+<SYNC Start=3101><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>H<font color=#FFA500>OLIC in KOREA
+<SYNC Start=3201><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=3301><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB4<font color=#FF0000>8 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=3401><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB<font color=#FF0000>48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=3501><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AK<font color=#FF0000>B48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=3601><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>A<font color=#FF0000>KB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=3701><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=3801><P Class=KRCC>
+<b><font color=#6DD66D>네이<font color=#228B22>버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=3901><P Class=KRCC>
+<b><font color=#6DD66D>네<font color=#228B22>이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=4001><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=4101><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KORE<font color=#FFEB46>A
+<SYNC Start=4201><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOR<font color=#FFEB46>EA
+<SYNC Start=4301><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KO<font color=#FFEB46>REA
+<SYNC Start=4401><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in K<font color=#FFEB46>OREA
+<SYNC Start=4501><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in <font color=#FFEB46>KOREA
+<SYNC Start=4601><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC i<font color=#FFEB46>n KOREA
+<SYNC Start=4701><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC <font color=#FFEB46>in KOREA
+<SYNC Start=4801><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLI<font color=#FFEB46>C in KOREA
+<SYNC Start=4901><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOL<font color=#FFEB46>IC in KOREA
+<SYNC Start=5001><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HO<font color=#FFEB46>LIC in KOREA
+<SYNC Start=5101><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>H<font color=#FFEB46>OLIC in KOREA
+<SYNC Start=5201><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=5301><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB4<font color=#FF8C8C>8 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=5401><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB<font color=#FF8C8C>48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=5501><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AK<font color=#FF8C8C>B48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=5601><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>A<font color=#FF8C8C>KB48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=5701><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=5801><P Class=KRCC>
+<b><font color=#228B22>네이<font color=#6DD66D>버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=5901><P Class=KRCC>
+<b><font color=#228B22>네<font color=#6DD66D>이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=6001><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KOREA
+<SYNC Start=6101><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KORE<font color=#FFA500>A
+<SYNC Start=6201><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KOR<font color=#FFA500>EA
+<SYNC Start=6301><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in KO<font color=#FFA500>REA
+<SYNC Start=6401><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in K<font color=#FFA500>OREA
+<SYNC Start=6501><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC in <font color=#FFA500>KOREA
+<SYNC Start=6601><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC i<font color=#FFA500>n KOREA
+<SYNC Start=6701><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLIC <font color=#FFA500>in KOREA
+<SYNC Start=6801><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOLI<font color=#FFA500>C in KOREA
+<SYNC Start=6901><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HOL<font color=#FFA500>IC in KOREA
+<SYNC Start=7001><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>HO<font color=#FFA500>LIC in KOREA
+<SYNC Start=7101><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFEB46>H<font color=#FFA500>OLIC in KOREA
+<SYNC Start=7201><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=7301><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB4<font color=#FF0000>8 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=7401><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AKB<font color=#FF0000>48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=7501><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>AK<font color=#FF0000>B48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=7601><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF8C8C>A<font color=#FF0000>KB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=7701><P Class=KRCC>
+<b><font color=#6DD66D>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=7801><P Class=KRCC>
+<b><font color=#6DD66D>네이<font color=#228B22>버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=7901><P Class=KRCC>
+<b><font color=#6DD66D>네<font color=#228B22>이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=8001><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=9901><P Class=KRCC>
+<b><font color=#6DD66D>네<font color=#228B22>이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=10001><P Class=KRCC>
+<b><font color=#228B22>네<font color=#6DD66D>이<font color=#228B22>버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=10101><P Class=KRCC>
+<b><font color=#228B22>네이<font color=#6DD66D>버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=10201><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF8C8C>A<font color=#FF0000>KB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=10301><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>A<font color=#FF8C8C>K<font color=#FF0000>B48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=10401><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AK<font color=#FF8C8C>B<font color=#FF0000>48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=10501><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB<font color=#FF8C8C>4<font color=#FF0000>8 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=10601><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB4<font color=#FF8C8C>8 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=10701><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFEB46>H<font color=#FFA500>OLIC in KOREA
+<SYNC Start=10801><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>H<font color=#FFEB46>O<font color=#FFA500>LIC in KOREA
+<SYNC Start=10901><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HO<font color=#FFEB46>L<font color=#FFA500>IC in KOREA
+<SYNC Start=11001><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOL<font color=#FFEB46>I<font color=#FFA500>C in KOREA
+<SYNC Start=11101><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLI<font color=#FFEB46>C <font color=#FFA500>in KOREA
+<SYNC Start=11201><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC <font color=#FFEB46>i<font color=#FFA500>n KOREA
+<SYNC Start=11301><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC i<font color=#FFEB46>n <font color=#FFA500>KOREA
+<SYNC Start=11401><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in <font color=#FFEB46>K<font color=#FFA500>OREA
+<SYNC Start=11501><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in K<font color=#FFEB46>O<font color=#FFA500>REA
+<SYNC Start=11601><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KO<font color=#FFEB46>R<font color=#FFA500>EA
+<SYNC Start=11701><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOR<font color=#FFEB46>E<font color=#FFA500>A
+<SYNC Start=11801><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KORE<font color=#FFEB46>A
+<SYNC Start=11901><P Class=KRCC>
+<b><font color=#228B22>네이버 <font color=#FF0000>AKB48 <font color=#FFA500>HOLIC in KOREA
+<SYNC Start=12409><P Class=KRCC>&nbsp;
+<SYNC Start=12583><P Class=KRCC>
+<FONT COLOR=BLACK>Caption by 人形
+<SYNC Start=13973><P Class=KRCC>&nbsp;
+<SYNC Start=14000><P Class=KRCC>
+<font color=aquamarine>공포의 랭킹 No.1 언럭키! 결정!<br>오오시마 마이 졸업기획 개시!
+<SYNC Start=21535><P Class=KRCC>&nbsp;
+<SYNC Start=22587><P Class=KRCC>
+연예계에서 살아가는 도중에
+<SYNC Start=26189><P Class=KRCC>
+가장 필요한건 뭐라고 생각해요?
+<SYNC Start=28616><P Class=KRCC>
+자~ 코지마! 뭐라고 생각하나요?
+<SYNC Start=30586><P Class=KRCC>
+뭐랄까...기획사와의 관계?
+<SYNC Start=32705><P Class=KRCC>
+<font color=#A5ABDA>어른의 의견...
+<SYNC Start=34954><P Class=KRCC>&nbsp;
+<SYNC Start=35000><P Class=KRCC>
+잘라말해 운입니다
+<SYNC Start=37455><P Class=KRCC>
+그러니까 오늘은 너희들에게
+<SYNC Start=39653><P Class=KRCC>
+자기자신의 올해의 운세를 알아서
+<SYNC Start=42357><P Class=KRCC>
+연예계를 살아가는 법을 배워보겠습니다
+<SYNC Start=46015><P Class=KRCC>&nbsp;
+<SYNC Start=47115><P Class=KRCC>
+<font color=#A5ABDA>그렇다! 이번엔 <font color=red>손금으로 알자!<br>
+<font color=orange>2009년 AKB48 <font color=hotpink>럭키걸 랭킹
+<SYNC Start=54438><P Class=KRCC>&nbsp;
+<SYNC Start=55415><P Class=KRCC>
+<font color=#A5ABDA>사전에 참가 멤버 전원의 손을 촬영해
+<SYNC Start=58608><P Class=KRCC>
+<font color=#A5ABDA>어떤 손금점 개그맨에게 감정을 부탁했습니다
+<SYNC Start=62260><P Class=KRCC>
+<font color=#A5ABDA>그사람이야말로 시마다 슈헤이상
+<SYNC Start=65752><P Class=KRCC>
+<font color=#A5ABDA>「요요기의 조카」이란 이명을 갖고
+<SYNC Start=67901><P Class=KRCC>
+<font color=#A5ABDA>오리지날의 손금을 계속해서 개발
+<SYNC Start=70652><P Class=KRCC>
+<font color=#A5ABDA>수백명의 연예인도 감정한
+<SYNC Start=72715><P Class=KRCC>
+<font color=#A5ABDA>요즘 가장 신통하다는 손금점술사
+<SYNC Start=76279><P Class=KRCC>&nbsp;
+<SYNC Start=77080><P Class=KRCC>
+<font color=#A5ABDA>그런 굉장한 시마다상에게
+<SYNC Start=78861><P Class=KRCC>
+<font color=#A5ABDA>멤버의 올해 운세를<br>순위로 매겨 달라고 했습니다
+<SYNC Start=83121><P Class=KRCC>&nbsp;
+<SYNC Start=83461><P Class=KRCC>
+상위인 사람은 올해 운세가 엄청 좋지만
+<SYNC Start=86715><P Class=KRCC>
+반대로 랭킹이 낮은 사람은 이대로는
+<SYNC Start=89557><P Class=KRCC>
+아이돌 생명 조차 위험하다는 거죠
+<SYNC Start=92265><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>아이돌 생명의 위기!
+<SYNC Start=93454><P Class=KRCC>
+무서워
+<br><font color=#A5ABDA>아이돌 생명의 위기!
+<SYNC Start=94315><P Class=KRCC>
+그럼 11위부터 발표해 볼까 합니다<br><font color=#A5ABDA>아이돌 생명의 위기!
+<SYNC Start=95527><P Class=KRCC>
+그럼 11위부터 발표해 볼까 합니다<br>
+　 　
+<SYNC Start=99841><P Class=KRCC>
+AKB48의 평균운세!
+<SYNC Start=101898><P Class=KRCC>
+11위는 이사람!
+<SYNC Start=103104><P Class=KRCC>&nbsp;
+<SYNC Start=103842><P Class=KRCC>
+후지에 레이나!
+<SYNC Start=104728><P Class=KRCC>&nbsp;
+<SYNC Start=105846><P Class=KRCC>
+후지에!<br>
+/넌 재미가 없구만
+<SYNC Start=108385><P Class=KRCC>
+진짜 그래요<br>
+/11위!
+<SYNC Start=109942><P Class=KRCC>
+순위와 같이 손금도 어중간해요
+<SYNC Start=113906><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>평범한 운세...
+<SYNC Start=115409><P Class=KRCC>
+심한데<br><font color=#A5ABDA>평범한 운세...
+<SYNC Start=116311><P Class=KRCC>&nbsp;
+<SYNC Start=116513><P Class=KRCC>
+사실은 손금은 위에서 부터<br>
+그사람의 연애 경향을 나타내는 감정선
+<SYNC Start=121845><P Class=KRCC>
+중간은 그 사람의 사고회로를 나타내는 두뇌선
+<SYNC Start=125255><P Class=KRCC>
+가장 아래는 건강상태를 나타내는 생명선
+<SYNC Start=129767><P Class=KRCC>
+이 3개의 선은 여러분에게 있는 선인데요
+<SYNC Start=132441><P Class=KRCC>
+극히 평균적...
+<SYNC Start=135142><P Class=KRCC>&nbsp;
+<SYNC Start=136495><P Class=KRCC>
+THE 평범이라고 해도 되지않을까요?
+<SYNC Start=139260><P Class=KRCC>&nbsp;
+<SYNC Start=140968><P Class=KRCC>
+<font color=#A5ABDA>평균인 후지에 보다 조금은<br>
+언럭키인 12,13위는 여기 두사람!
+<SYNC Start=147008><P Class=KRCC>&nbsp;
+<SYNC Start=147917><P Class=KRCC>
+<font color=#A5ABDA>12위 다카하시, 13위 노로
+<SYNC Start=150238><P Class=KRCC>&nbsp;
+<SYNC Start=150563><P Class=KRCC>
+이 두사람은 굉장히 재밌는 관계로
+<SYNC Start=153986><P Class=KRCC>
+손금만 보면 완전히 정반대입니다
+<SYNC Start=157935><P Class=KRCC>&nbsp;
+<SYNC Start=160839><P Class=KRCC>
+이 감정선의 입구가요
+<SYNC Start=163984><P Class=KRCC>
+く자 같은 선이 5개나 있어요
+<SYNC Start=168864><P Class=KRCC>
+く자 선은 유머선이란 겁니다
+<SYNC Start=173227><P Class=KRCC>
+굉장하잖아
+<SYNC Start=174735><P Class=KRCC>
+근데 12위잖아요?
+<SYNC Start=176422><P Class=KRCC>
+유머선이 있는 사람이라면
+<SYNC Start=178382><P Class=KRCC>
+절대 없으면 안되는 선이 하나 더 있어요
+<SYNC Start=182277><P Class=KRCC>
+엄지의 밑부분 부터 쭉 올라오는 선이<br>
+아나운서선, 수다선이란겁니다
+<SYNC Start=188477><P Class=KRCC>
+이게 없어요
+<SYNC Start=189722><P Class=KRCC>
+그러니 웃기긴한데
+<SYNC Start=191431><P Class=KRCC>
+그걸 다른 사람에게 전달하지 못해요
+<SYNC Start=193420><P Class=KRCC>&nbsp;
+<SYNC Start=196238><P Class=KRCC>
+맞췄잖아?<br>
+/저기..아까워요
+<SYNC Start=198881><P Class=KRCC>
+어쩌면 되요?<br>
+<font color=#A5ABDA>슬픈 현실
+<SYNC Start=200031><P Class=KRCC>
+거꾸로 노로상이지요?<br>
+<font color=#A5ABDA>슬픈 현실
+<SYNC Start=201246><P Class=KRCC>
+거꾸로 노로상이지요?<br>
+/예
+<SYNC Start=203245><P Class=KRCC>
+아나운서선은 있어요
+<SYNC Start=206476><P Class=KRCC>
+다만 유머선이 하나도 없어요
+<SYNC Start=209369><P Class=KRCC>
+<font color=#A5ABDA>그냥 수다쟁이
+<SYNC Start=212878><P Class=KRCC>&nbsp;
+<SYNC Start=213607><P Class=KRCC>
+<font color=#A5ABDA>럭키걸 랭킹!
+<SYNC Start=215156><P Class=KRCC>
+<font color=#A5ABDA>계속해서 평균보다 조금 럭키인<br>
+9위와 10위는 여기 두사람!
+<SYNC Start=219923><P Class=KRCC>&nbsp;
+<SYNC Start=220901><P Class=KRCC>
+<font color=#A5ABDA>9위 코바야시, 10위 키타하라!
+<SYNC Start=223635><P Class=KRCC>&nbsp;
+<SYNC Start=224736><P Class=KRCC>
+<font color=#A5ABDA>더욱이 언럭키인 14위에서<br>
+17위까지가 이쪽입니다
+<SYNC Start=229331><P Class=KRCC>&nbsp;
+<SYNC Start=230339><P Class=KRCC>
+<font color=#A5ABDA>이 4명에게 무려 아이돌 생명이 걸린 손금이!
+<SYNC Start=234921><P Class=KRCC>&nbsp;
+<SYNC Start=235178><P Class=KRCC>
+사실은 소개된 4명 전원에겐
+<SYNC Start=237819><P Class=KRCC>
+어떤 좋지 않은 선이 있어요
+<SYNC Start=242591><P Class=KRCC>
+뭐죠?(X2)
+<SYNC Start=244053><P Class=KRCC>
+두뇌선과 생명선의 시작점이 떨어져 있어요
+<SYNC Start=249180><P Class=KRCC>
+떨어졌어<br>
+/보통은 붙어 있거든요
+<SYNC Start=252987><P Class=KRCC>
+일본인의 95%는 붙어 있다고 해요
+<SYNC Start=256868><P Class=KRCC>
+KY선이라는 선입니다
+<SYNC Start=259258><P Class=KRCC>
+분위기 파악 못하는 선!
+<SYNC Start=262380><P Class=KRCC>
+주위를 휘둘러요~
+<SYNC Start=264385><P Class=KRCC>
+휘둘르는군요 / 진짜?<br>
+<font color=#A5ABDA>KY아이돌 탄생!
+<SYNC Start=268335><P Class=KRCC>
+가정에서도 차분하게 있지 못하고
+<SYNC Start=271112><P Class=KRCC>
+남성의 말도 안 듣지요?<br>
+/예
+<SYNC Start=273665><P Class=KRCC>
+그러니 올해의 연애운은<br>
+틀림없이 밑바닥인 4명입니다!
+<SYNC Start=277765><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>2009년의 연애는 밑바닥!
+<SYNC Start=279312><P Class=KRCC>
+밑바닥입니다(X2)<br><font color=#A5ABDA>2009년의 연애는 밑바닥!
+<SYNC Start=281512><P Class=KRCC>
+얼굴을 들어!<br><font color=#A5ABDA>2009년의 연애는 밑바닥!
+<SYNC Start=284114><P Class=KRCC>
+아니야! / 뭐야 할매?
+<SYNC Start=286286><P Class=KRCC>
+25살이니까 결혼해야 하는 연령대야
+<SYNC Start=289652><P Class=KRCC>
+어때? 결혼운은 있어?
+<SYNC Start=291814><P Class=KRCC>
+그걸 봐줬으면해
+<SYNC Start=293178><P Class=KRCC>
+죄송한데 결혼선을 보니...
+<SYNC Start=295945><P Class=KRCC>
+반들반들 하던데요
+<SYNC Start=297331><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>결혼선이 <font color=aquamarine>반들반들
+<SYNC Start=298231><P Class=KRCC>
+반들반들거려 선이 안돼요<br><font color=#A5ABDA>결혼선이 <font color=aquamarine>반들반들
+<SYNC Start=301059><P Class=KRCC>&nbsp;
+<SYNC Start=302279><P Class=KRCC>
+<font color=#A5ABDA>계속해서 8위에서 5위까지 한번에 오픈!
+<SYNC Start=306713><P Class=KRCC>
+<font color=#A5ABDA>올해 그럭저럭 운이 좋은 여기 4명!
+<SYNC Start=310570><P Class=KRCC>&nbsp;
+<SYNC Start=311214><P Class=KRCC>
+<font color=#A5ABDA>사실은 8위인 마츠이에게 문제가!
+<SYNC Start=314865><P Class=KRCC>&nbsp;
+<SYNC Start=315262><P Class=KRCC>
+잠시 카메라에 손을 보여 주시겠어요?
+<SYNC Start=318265><P Class=KRCC>
+마츠이상
+<SYNC Start=319009><P Class=KRCC>&nbsp;
+<SYNC Start=319461><P Class=KRCC>
+실은 손금이 말이죠
+<SYNC Start=321881><P Class=KRCC>
+희미해서 잘 모르겠어요
+<SYNC Start=324163><P Class=KRCC>
+확실히 희미하군요<br>
+/전혀 안보여
+<SYNC Start=326019><P Class=KRCC>
+이건 중요한데 손금이란 것은
+<SYNC Start=328552><P Class=KRCC>
+오른손이 태어날때부터 가진 자질이고
+<SYNC Start=330618><P Class=KRCC>
+왼손이 현재를 나타내는데
+<SYNC Start=332534><P Class=KRCC>
+그러니 왼손을 보는거죠
+<SYNC Start=334574><P Class=KRCC>
+선이 희미하단것은 아직 자신의<br>
+방향성이 정해지지 않았거나
+<SYNC Start=339602><P Class=KRCC>
+각오가 정해지지 않았다거나
+<SYNC Start=341418><P Class=KRCC>
+아직 선이 완성되지 않았다걸 나타내요
+<SYNC Start=345271><P Class=KRCC>
+반대로 말하면 무한의 가능성이<br>
+있는 손금입니다
+<SYNC Start=348943><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>무한한 가능성 있음!
+<SYNC Start=350005><P Class=KRCC>
+굉장하잖아<br>
+<font color=#A5ABDA>무한한 가능성 있음!
+<SYNC Start=351908><P Class=KRCC>&nbsp;
+<SYNC Start=352121><P Class=KRCC>
+그럼 지금까지 아직 이름이<br>
+안 나온 사람 누구지요?
+<SYNC Start=356174><P Class=KRCC>
+그런가? 마에다는 몇위라고 생각해?
+<SYNC Start=358411><P Class=KRCC>
+엄청 미묘하게 18위나 19위에 있을 것 같아요
+<SYNC Start=361601><P Class=KRCC>
+18위 19위는 미묘하지 않아요
+<SYNC Start=363234><P Class=KRCC>
+진짜 재수 없어요
+<SYNC Start=364991><P Class=KRCC>&nbsp;
+<SYNC Start=365341><P Class=KRCC>
+이렇게 아래인걸요
+<SYNC Start=366703><P Class=KRCC>&nbsp;
+<SYNC Start=367781><P Class=KRCC>
+<font color=#A5ABDA>진짜 재수 없다는 18위와 19위가 이겁니다
+<SYNC Start=371355><P Class=KRCC>&nbsp;
+<SYNC Start=371861><P Class=KRCC>
+<font color=#A5ABDA>18위 미네기시, 19위 카사이
+<SYNC Start=374414><P Class=KRCC>&nbsp;
+<SYNC Start=374945><P Class=KRCC>
+미네기시랑 카사이!
+<SYNC Start=376491><P Class=KRCC>&nbsp;
+<SYNC Start=376908><P Class=KRCC>
+나쁜쪽이였군요
+<SYNC Start=378514><P Class=KRCC>
+2위라고 생각했어요, 리얼하게...
+<SYNC Start=380364><P Class=KRCC>
+<font color=#A5ABDA>근거도 없는 자신
+<SYNC Start=382512><P Class=KRCC>&nbsp;
+<SYNC Start=382713><P Class=KRCC>
+마에다!
+<SYNC Start=383352><P Class=KRCC>&nbsp;
+<SYNC Start=383667><P Class=KRCC>
+18위, 19위는 없어졌는데...<br>
+/이걸 어째~
+<SYNC Start=387476><P Class=KRCC>&nbsp;
+<SYNC Start=387703><P Class=KRCC>
+이쪽은 최악이란 거죠?<br>
+/최악입니다!!
+<SYNC Start=390462><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>최악인 가능성...
+<SYNC Start=392001><P Class=KRCC>
+이쪽은 최악이에요<br><font color=#A5ABDA>최악인 가능성...
+<SYNC Start=393721><P Class=KRCC>&nbsp;
+<SYNC Start=395164><P Class=KRCC>
+감질나게 4위!<br>
+/거기 들어가고 싶어
+<SYNC Start=397676><P Class=KRCC>
+남은 사람이 마에다, 코지마, 시노다상
+<SYNC Start=400806><P Class=KRCC>
+아키모토, 미야자와, 니토, 마츠이 레나!
+<SYNC Start=405206><P Class=KRCC>
+자~ 과연 누가 4위일까요?
+<SYNC Start=408014><P Class=KRCC>
+4위는...
+<SYNC Start=409203><P Class=KRCC>&nbsp;
+<SYNC Start=410081><P Class=KRCC>
+이사람! 마츠이!
+<SYNC Start=411746><P Class=KRCC>&nbsp;
+<SYNC Start=412737><P Class=KRCC>
+<font color=#A5ABDA>염원은 이루어 지지않고...
+<SYNC Start=414401><P Class=KRCC>&nbsp;
+<SYNC Start=414716><P Class=KRCC>
+마츠이!<br>
+/예
+<SYNC Start=416016><P Class=KRCC>
+다행이야<br>
+/예
+<SYNC Start=417319><P Class=KRCC>
+그렇지?
+<SYNC Start=417858><P Class=KRCC>&nbsp;
+<SYNC Start=418821><P Class=KRCC>
+<font color=#A5ABDA>4위 마츠이에게 있는게 엄지 손가락<br>
+밑부분에 있는 그물 형태의
+<SYNC Start=422773><P Class=KRCC>
+<font color=#A5ABDA>이케이케선!<br>
+<font color=gray>-흐름을 탔다는 뜻-
+<SYNC Start=424359><P Class=KRCC>
+<font color=#A5ABDA>이것이야말로 운세 급상승의 증거
+<SYNC Start=427152><P Class=KRCC>&nbsp;
+<SYNC Start=427553><P Class=KRCC>
+최하위라면 어쩌지라고...
+<SYNC Start=429609><P Class=KRCC>
+최하위라면 어쩌지라니!?<br>
+최하위라면 어쩔래...
+<SYNC Start=432676><P Class=KRCC>
+<font color=#A5ABDA>최하위 가능성 있음!
+<SYNC Start=435810><P Class=KRCC>&nbsp;
+<SYNC Start=436890><P Class=KRCC>
+남은건 워스트3와 베스트3!
+<SYNC Start=441001><P Class=KRCC>
+자~ 남은 멤버는 손을 들어주세요
+<SYNC Start=444601><P Class=KRCC>&nbsp;
+<SYNC Start=443710><P Class=KRCC>
+너희들은 그냥 앞으로 나와!
+<SYNC Start=446989><P Class=KRCC>
+6명 나와
+<SYNC Start=448144><P Class=KRCC>&nbsp;
+<SYNC Start=449701><P Class=KRCC>
+드디어 여기까지 왔는데요
+<SYNC Start=451613><P Class=KRCC>&nbsp;
+<SYNC Start=453916><P Class=KRCC>
+운명의 갈림길이군요
+<SYNC Start=455366><P Class=KRCC>
+그럼 먼저 럭키걸 3위부터 발표하려 합니다
+<SYNC Start=461059><P Class=KRCC>
+나와라!
+<SYNC Start=461670><P Class=KRCC>
+누구일까? 3위는...
+<SYNC Start=463278><P Class=KRCC>&nbsp;
+<SYNC Start=465315><P Class=KRCC>
+3위는 이사람입니다!
+<SYNC Start=467512><P Class=KRCC>&nbsp;
+<SYNC Start=468601><P Class=KRCC>
+아자!!!!! / 코지하루!
+<SYNC Start=469916><P Class=KRCC>
+<font color=#A5ABDA>광희난무!<br><font color=gray>-엄청나게 기쁘다는 뜻-
+<SYNC Start=473002><P Class=KRCC>&nbsp;
+<SYNC Start=473406><P Class=KRCC>
+엄청 좋아하잖아, 코지하루
+<SYNC Start=475361><P Class=KRCC>
+3위래<br>
+/3위!
+<SYNC Start=477006><P Class=KRCC>&nbsp;
+<SYNC Start=477562><P Class=KRCC>
+<font color=#A5ABDA>럭키걸 3위는 코지마 하루나!
+<SYNC Start=480216><P Class=KRCC>
+<font color=#A5ABDA>그 이유는..
+<SYNC Start=481390><P Class=KRCC>&nbsp;
+<SYNC Start=481851><P Class=KRCC>
+코지마상은 두뇌선 앞에서<br>한번 떨어졌다 다시 교차하는
+<SYNC Start=487517><P Class=KRCC>
+이건 실은 생선의 형태를 하고있어 피쉬라고...
+<SYNC Start=491173><P Class=KRCC>
+어! 정말이야! 있어(X2)<br>
+/피쉬야!
+<SYNC Start=493208><P Class=KRCC>
+물고기가 날고 있어
+<SYNC Start=494860><P Class=KRCC>
+어?<br>
+/물고기가 헤엄치고 있어
+<SYNC Start=496139><P Class=KRCC>
+손위에 나타난 물고기는<br>럭키의 상징이라고 해서
+<SYNC Start=500774><P Class=KRCC>
+두뇌선 앞의 피쉬는
+<SYNC Start=503036><P Class=KRCC>
+직장에서 행운이 가까운 시일내에<br>찾아온단 증거입니다
+<SYNC Start=507779><P Class=KRCC>
+참고로 작년에 있었던 사람이
+<SYNC Start=510052><P Class=KRCC>
+스잔느상(Pabo)이랑<br>바나나맨(개그 콤비)입니다
+<SYNC Start=511815><P Class=KRCC>
+엣? 바나나맨?
+<SYNC Start=514001><P Class=KRCC>
+바나나맨은 싫은것처럼..?<br>
+/아니 장르가 달라서 깜짝 놀랐어요
+<SYNC Start=517943><P Class=KRCC>
+작년 연말에 TV에 가장 많이<br>나온 사람이 바나나맨입니다
+<SYNC Start=521401><P Class=KRCC>
+히무라상이(뚱뚱한쪽)...<br>
+/기뻐
+<SYNC Start=523252><P Class=KRCC>&nbsp;
+<SYNC Start=523690><P Class=KRCC>
+좋았어!
+<SYNC Start=524763><P Class=KRCC>
+그러므로 3위는 코지마 하루나였습니다
+<SYNC Start=527410><P Class=KRCC>
+아~ 무서워(X3)
+<SYNC Start=528585><P Class=KRCC>&nbsp;
+<SYNC Start=528785><P Class=KRCC>
+발표할까요?<br>
+/어디를 열어 볼까요?
+<SYNC Start=532377><P Class=KRCC>
+20위 해볼까요!
+<SYNC Start=534532><P Class=KRCC>&nbsp;
+<SYNC Start=534902><P Class=KRCC>
+20위는 누구일까요?
+<SYNC Start=537092><P Class=KRCC>&nbsp;
+<SYNC Start=539551><P Class=KRCC>
+숨이...
+<SYNC Start=539988><P Class=KRCC>&nbsp;
+<SYNC Start=540642><P Class=KRCC>
+<font color=#A5ABDA>겁먹은 아이돌
+<SYNC Start=544418><P Class=KRCC>&nbsp;
+<SYNC Start=546653><P Class=KRCC>
+자~ 20위는 이사람입니다!
+<SYNC Start=548095><P Class=KRCC>&nbsp;
+<SYNC Start=548901><P Class=KRCC>
+미야자키!
+<SYNC Start=549766><P Class=KRCC>&nbsp;
+<SYNC Start=550712><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>쇼크...
+<SYNC Start=552201><P Class=KRCC>
+미야자키 아쉬워!<br>
+<font color=#A5ABDA>쇼크...
+<SYNC Start=554301><P Class=KRCC>
+미야자키<br>
+/설명할께요
+<SYNC Start=556237><P Class=KRCC>
+두뇌선에 주목해주세요
+<SYNC Start=558329><P Class=KRCC>
+두뇌선은 상당히 길이가 중요해요
+<SYNC Start=561402><P Class=KRCC>
+짧으면 멍청한 사람이라고 합니다
+<SYNC Start=564618><P Class=KRCC>
+미야자키상!
+<SYNC Start=565819><P Class=KRCC>
+좀처럼 보기 힘든 길이군요
+<SYNC Start=568415><P Class=KRCC>
+<font color=#A5ABDA>바보 캐릭 확정!
+<SYNC Start=570876><P Class=KRCC>
+생각하는 시간이 아깝다고나 할까요
+<SYNC Start=574077><P Class=KRCC>&nbsp;
+<SYNC Start=575473><P Class=KRCC>
+남은 4명입니다만...<br>
+/무서워!
+<SYNC Start=578629><P Class=KRCC>
+그럼 2위부터...<br>
+/우와~ 제발!
+<SYNC Start=581859><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>벼랑끝
+<SYNC Start=581911><P Class=KRCC>
+2위는 누구일까요? <br><font color=#A5ABDA>벼랑끝
+<SYNC Start=584114><P Class=KRCC>
+2위는 누구일까요?<br>
+　 　
+<SYNC Start=584952><P Class=KRCC>
+이사람!
+<SYNC Start=585680><P Class=KRCC>&nbsp;
+<SYNC Start=586284><P Class=KRCC>
+니토!
+<SYNC Start=587103><P Class=KRCC>&nbsp;
+<SYNC Start=587710><P Class=KRCC>
+니토였군<br>
+/니토입니다
+<SYNC Start=589949><P Class=KRCC>&nbsp;
+<SYNC Start=590259><P Class=KRCC>
+다행이야<br>
+/다행이에요
+<SYNC Start=592919><P Class=KRCC>
+마에다, TV에서 그런 얼굴하면 안되지
+<SYNC Start=594618><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>아이돌인데...
+<SYNC Start=595352><P Class=KRCC>
+TV에서 그런 얼굴은 안돼!<br><font color=#A5ABDA>아이돌인데...
+<SYNC Start=597605><P Class=KRCC>&nbsp;
+<SYNC Start=597642><P Class=KRCC>
+니토상은요, 손바닥을 봐주세요
+<SYNC Start=600062><P Class=KRCC>
+가운데에 운명선이 있지요?
+<SYNC Start=602314><P Class=KRCC>
+약지에서 금운선이 있고
+<SYNC Start=605183><P Class=KRCC>
+새끼 손가락에서 나오는 재물선!
+<SYNC Start=607515><P Class=KRCC>
+삼각형을 만든것 처럼 보여요
+<SYNC Start=610067><P Class=KRCC>
+세기말 패자의 패와 왕자의 왕을 써서
+<SYNC Start=612096><P Class=KRCC>
+패왕선이라고 해요
+<SYNC Start=614203><P Class=KRCC>
+멋져!<br>
+/패왕선?
+<SYNC Start=615458><P Class=KRCC>
+다른 말로 억만장자의 상이라고<br>
+하는 최고의 금운선이에요
+<SYNC Start=621611><P Class=KRCC>&nbsp;
+<SYNC Start=622668><P Class=KRCC>
+<font color=#A5ABDA>자~ 남은 멤버는 마에다, 시노다, 아키모토!
+<SYNC Start=627105><P Class=KRCC>
+<font color=#A5ABDA>이 중에 상당히 운세가 나쁜 21위는!?
+<SYNC Start=630858><P Class=KRCC>&nbsp;
+<SYNC Start=631627><P Class=KRCC>
+심장이 튀어나올것 같아요
+<SYNC Start=633419><P Class=KRCC>
+심장은 안 나와요<br><font color=#A5ABDA>안 나와요
+<SYNC Start=635131><P Class=KRCC>
+그럼 21위를...
+<SYNC Start=637506><P Class=KRCC>&nbsp;
+<SYNC Start=638320><P Class=KRCC>
+뜸들이지마요
+<SYNC Start=638982><P Class=KRCC>
+말하세요<br>
+/아뇨...그냥 하시죠...
+<SYNC Start=642616><P Class=KRCC>&nbsp;
+<SYNC Start=642982><P Class=KRCC>
+21위는...
+<SYNC Start=644320><P Class=KRCC>&nbsp;
+<SYNC Start=644585><P Class=KRCC>
+이사람!
+<SYNC Start=645187><P Class=KRCC>&nbsp;
+<SYNC Start=645858><P Class=KRCC>
+마에다!
+<SYNC Start=646630><P Class=KRCC>&nbsp;
+<SYNC Start=648867><P Class=KRCC>
+마음속으론 1위라고 생각하고 있었지?
+<SYNC Start=652017><P Class=KRCC>
+나는 1위라고 생각했었지?
+<SYNC Start=654649><P Class=KRCC>
+생각했어요-
+<SYNC Start=656674><P Class=KRCC>&nbsp;
+<SYNC Start=657921><P Class=KRCC>
+<font color=#A5ABDA>마에다 아츠코 21위로 격침!
+<SYNC Start=661215><P Class=KRCC>
+<font color=#A5ABDA>그 이유는...
+<SYNC Start=662281><P Class=KRCC>&nbsp;
+<SYNC Start=662623><P Class=KRCC>
+생명선과 운명선을 가로 지르는 선이 있지요?
+<SYNC Start=667301><P Class=KRCC>
+이건 허들선이라고 해서
+<SYNC Start=669670><P Class=KRCC>
+키시베 시로상에게 많이 있던 선입니다<br><font color=gray>-파산으로 유명했던 연예인-
+<SYNC Start=671392><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>키시베 시로 = 마에다 아츠코
+<SYNC Start=672839><P Class=KRCC>
+우와~ 기운빠져<br><font color=#A5ABDA>키시베 시로 = 마에다 아츠코
+<SYNC Start=674749><P Class=KRCC>&nbsp;
+<SYNC Start=674942><P Class=KRCC>
+허들이란건 살면서 누구라도 있어요
+<SYNC Start=678021><P Class=KRCC>
+그 허들을 극복한 순간<br>한단계 성장할 수 있는 선이니까
+<SYNC Start=682652><P Class=KRCC>
+뭐 한단계 성장할 수 있는<br>찬스인 시기란 겁니다
+<SYNC Start=686521><P Class=KRCC>
+다만 이 손금의 주인이 키시베 시로상이란거죠<br><font color=gray>-파산으로 유명했던 연예인-
+<SYNC Start=690921><P Class=KRCC>&nbsp;
+<SYNC Start=691802><P Class=KRCC>
+<font color=#A5ABDA>드디어 남은 사람은 두명!
+<SYNC Start=693590><P Class=KRCC>
+<font color=#A5ABDA>과연 어느쪽이 No.1럭키걸이고
+<SYNC Start=696610><P Class=KRCC>
+<font color=#A5ABDA>어느쪽이 No.1언럭키걸인가!?
+<SYNC Start=700485><P Class=KRCC>&nbsp;
+<SYNC Start=701174><P Class=KRCC>
+시노다상, 럭키걸이 될 자신은 있나요?<br>
+/없어요
+<SYNC Start=704349><P Class=KRCC>
+아키모토는 어떤가요?<br>
+/그래도...마지막까지 남았다는건 좋다고
+<SYNC Start=709563><P Class=KRCC>
+반대로 긍정적으로 생각하지만...<br>
+/그래도 시마다상!
+<SYNC Start=711917><P Class=KRCC>
+최하위라는건...
+<SYNC Start=713985><P Class=KRCC>
+은퇴하셔야죠
+<SYNC Start=715001><P Class=KRCC>&nbsp;
+<SYNC Start=715164><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>최하위 즉시 은퇴!
+<SYNC Start=718166><P Class=KRCC>
+은퇴?<br><font color=#A5ABDA>최하위 즉시 은퇴!
+<SYNC Start=718975><P Class=KRCC>
+연애계를 그만두는게 좋다<br><font color=#A5ABDA>최하위 즉시 은퇴!
+<SYNC Start=721045><P Class=KRCC>
+발목을 잡는다는 거니까
+<SYNC Start=723417><P Class=KRCC>
+정말로 AKB48 안에서 따돌림 당해요
+<SYNC Start=726322><P Class=KRCC>
+혹시 최하위라면...
+<SYNC Start=727457><P Class=KRCC>
+따돌림은 없겠지만 최하위라면<br>
+마음의 돔이 무너질것 같아요
+<SYNC Start=732062><P Class=KRCC>&nbsp;
+<SYNC Start=732222><P Class=KRCC>
+자! 저기...두분은 앞으로...
+<SYNC Start=735330><P Class=KRCC>&nbsp;
+<SYNC Start=740247><P Class=KRCC>
+이건 뭐야?
+<SYNC Start=741172><P Class=KRCC>&nbsp;
+<SYNC Start=742301><P Class=KRCC>
+2009 AKB48 럭키걸 랭킹<br>1위에 빛나는 쪽은!
+<SYNC Start=748711><P Class=KRCC>&nbsp;
+<SYNC Start=751303><P Class=KRCC>
+시노다 마리코!
+<SYNC Start=752930><P Class=KRCC>&nbsp;
+<SYNC Start=756878><P Class=KRCC>
+축하합니다
+<SYNC Start=759032><P Class=KRCC>&nbsp;
+<SYNC Start=760795><P Class=KRCC>
+그러므로 이건 아키모토
+<SYNC Start=763418><P Class=KRCC>&nbsp;
+<SYNC Start=765494><P Class=KRCC>
+<font color=#A5ABDA>꿈이 깨지다...
+<SYNC Start=770502><P Class=KRCC>
+최하위거든요
+<SYNC Start=772652><P Class=KRCC>
+뭔가요?
+<SYNC Start=773369><P Class=KRCC>
+제대로 에프터 케어 해주세요
+<SYNC Start=775758><P Class=KRCC>
+<font color=#A5ABDA>절실한 부탁
+<SYNC Start=778442><P Class=KRCC>&nbsp;
+<SYNC Start=779114><P Class=KRCC>
+<font color=#A5ABDA>그러므로 No.1 럭키걸은<br>시노다 마리코였습니다
+<SYNC Start=783643><P Class=KRCC>&nbsp;
+<SYNC Start=784330><P Class=KRCC>
+실은 시노다상에겐 약지 아래에<br>이런 선이 있었어요
+<SYNC Start=789653><P Class=KRCC>
+이건 스타라고 하는 선입니다
+<SYNC Start=792155><P Class=KRCC>
+굉장해<br>
+/별 같은...
+<SYNC Start=795303><P Class=KRCC>
+말그대로 스타가 되는<br>증거라고 불리고 있어요
+<SYNC Start=798759><P Class=KRCC>
+기간한정 초무적상태가<br>되는 증거입니다
+<SYNC Start=804320><P Class=KRCC>
+강운을 넘어선 말그대로<br>스타만 있는 선입니다
+<SYNC Start=808001><P Class=KRCC>
+우와~ 기뻐
+<SYNC Start=809407><P Class=KRCC>&nbsp;
+<SYNC Start=811301><P Class=KRCC>
+정말로 기뻐요
+<SYNC Start=812430><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>승자와 패자
+<SYNC Start=812710><P Class=KRCC>
+정말로요<br><font color=#A5ABDA>승자와 패자
+<SYNC Start=814525><P Class=KRCC>&nbsp;
+<SYNC Start=815131><P Class=KRCC>
+<font color=#A5ABDA>AKB 제일의 언럭키걸 아키모토
+<SYNC Start=818780><P Class=KRCC>
+<font color=#A5ABDA>그 손금의 의미는...
+<SYNC Start=820919><P Class=KRCC>&nbsp;
+<SYNC Start=821290><P Class=KRCC>
+먼저 좀전에 여러분에게<br>KY선이라고 말했는데
+<SYNC Start=826430><P Class=KRCC>
+반대로 아키모토상은 너무 겹쳤어요
+<SYNC Start=831013><P Class=KRCC>
+겹치면 겹칠수록 KY와는 반대니까<br>
+좋다고 생각할수도 있지만
+<SYNC Start=834999><P Class=KRCC>
+주위를 너무 신경써서
+<SYNC Start=837278><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>소심한 사람
+<SYNC Start=838315><P Class=KRCC>
+그럼 연애계에 어울리지 않는다는건가요?<br>
+<font color=#A5ABDA>소심한 사람
+<SYNC Start=840512><P Class=KRCC>&nbsp;
+<SYNC Start=840692><P Class=KRCC>
+그게 말이죠.. 놀랄만한 선이 있었어요
+<SYNC Start=843805><P Class=KRCC>
+감정선이 2개로 나누어졌어요
+<SYNC Start=847558><P Class=KRCC>
+이건 상당히 주변을 배려해서 좋다고 하지만
+<SYNC Start=851019><P Class=KRCC>
+다른 이름으론...
+<SYNC Start=852179><P Class=KRCC>
+매니져선이란 겁니다
+<SYNC Start=855479><P Class=KRCC>
+아키모토상
+<SYNC Start=856186><P Class=KRCC>
+당신은 능력 있는 매니져입니다
+<SYNC Start=858403><P Class=KRCC>
+싫어요
+<SYNC Start=859642><P Class=KRCC>&nbsp;
+<SYNC Start=860768><P Class=KRCC>
+안 그만둬요, 싫어요<br><font color=#A5ABDA>인정하고 싶지 않은 현실...
+<SYNC Start=862201><P Class=KRCC>
+아직 아무 소리 않했어요 / 싫어요 <br><font color=#A5ABDA>인정하고 싶지 않은 현실...
+<SYNC Start=864596><P Class=KRCC>&nbsp;
+<SYNC Start=865794><P Class=KRCC>
+<font color=#A5ABDA>럭키걸 랭킹
+<SYNC Start=867657><P Class=KRCC>
+<font color=#A5ABDA>최종 결과는 이겁니다
+<SYNC Start=869901><P Class=KRCC>
+<font color=#A5ABDA>올해 무적상태인 시노다가 1위
+<SYNC Start=872915><P Class=KRCC>
+<font color=#A5ABDA>아키모토가 최하위란 결과로
+<SYNC Start=876347><P Class=KRCC>
+<font color=#A5ABDA>그러자!
+<SYNC Start=878017><P Class=KRCC>&nbsp;
+<SYNC Start=878335><P Class=KRCC>
+케어가 안됐다고 생각해요
+<SYNC Start=880710><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>결과에 불만폭발
+<SYNC Start=880882><P Class=KRCC>
+무슨 케어요?<br><font color=#A5ABDA>결과에 불만폭발
+<SYNC Start=882038><P Class=KRCC>
+뭔가 결혼 할 수 없다느니....<br><font color=#A5ABDA>결과에 불만폭발
+<SYNC Start=884617><P Class=KRCC>&nbsp;
+<SYNC Start=884876><P Class=KRCC>
+뭐야? 불만이 있다는 거야?<br>
+/응
+<SYNC Start=886721><P Class=KRCC>
+그럼 정하지 그래?
+<SYNC Start=889033><P Class=KRCC>
+그렇다면 정하지 그래?<br>
+/무슨?
+<SYNC Start=890784><P Class=KRCC>
+그거 가져와!<br>
+/뭐야?(X3)
+<SYNC Start=892488><P Class=KRCC>
+　 　
+<br><font color=#A5ABDA>그거라니?
+<SYNC Start=893012><P Class=KRCC>
+싫어 / 뭐야?<br><font color=#A5ABDA>그거라니?
+<SYNC Start=895129><P Class=KRCC>
+뭐야?가 아니지<br><font color=#A5ABDA>그거라니?
+<SYNC Start=896818><P Class=KRCC>&nbsp;
+<SYNC Start=896906><P Class=KRCC>
+이것! 니들이 좋아하는 풍선!
+<SYNC Start=900065><P Class=KRCC>
+이 풍선중 오직 하나가 <br><font color=#A5ABDA>풍선등장!
+<SYNC Start=903302><P Class=KRCC>
+이 봄베와 연결되었어요
+<SYNC Start=905120><P Class=KRCC>
+봄베를 열면 가장 재수 없는 사람의
+<SYNC Start=908510><P Class=KRCC>
+풍선이 부풀어 오르다는 겁니다
+<SYNC Start=911704><P Class=KRCC>
+결과적으로 이걸로 언럭키걸을 정하는건가요?<br>
+/이걸로 정합니다
+<SYNC Start=914692><P Class=KRCC>
+제 손금은 의미가 없잖아요
+<SYNC Start=917502><P Class=KRCC>
+<font color=#A5ABDA>그런 이유로!
+<SYNC Start=919517><P Class=KRCC>&nbsp;
+<SYNC Start=920484><P Class=KRCC>
+하나씩 들어주세요
+<SYNC Start=925058><P Class=KRCC>
+손에 붙여주세요,<br>
+확실히 붙여주세요
+<SYNC Start=927318><P Class=KRCC>
+자! AKB48 제일 운이 없는
+<SYNC Start=932027><P Class=KRCC>
+방해하고 있는 사람은 누구일까요?
+<SYNC Start=934459><P Class=KRCC>&nbsp;
+<SYNC Start=935048><P Class=KRCC>
+가볼까요
+<SYNC Start=935807><P Class=KRCC>
+봄배 오픈!
+<SYNC Start=938195><P Class=KRCC>&nbsp;
+<SYNC Start=943171><P Class=KRCC>
+사시하라!
+<SYNC Start=943930><P Class=KRCC>
+저 AKBINGO!에 오랜만에 나와서<br>아직 한마디도 못했어요
+<SYNC Start=947381><P Class=KRCC>
+<font color=#A5ABDA>운이 없으니까 그런겁니다
+<SYNC Start=948707><P Class=KRCC>&nbsp;
+<SYNC Start=950108><P Class=KRCC>
+그만 날뛰어
+<SYNC Start=951280><P Class=KRCC>&nbsp;
+<SYNC Start=957880><P Class=KRCC>
+<font color=#A5ABDA>망연자실...
+<SYNC Start=959713><P Class=KRCC>&nbsp;
+<SYNC Start=960291><P Class=KRCC>
+<font color=#A5ABDA>그렇다! 진짜 언럭키걸은 사시하라로 결정!
+<SYNC Start=964684><P Class=KRCC>&nbsp;
+<SYNC Start=967406><P Class=KRCC>
+<font color=hotpink><b>오오시마 마이</b> AKB 졸업기념<br><font color=gold>~눈물의 라스트런~
+<SYNC Start=971117><P Class=KRCC>&nbsp;
+<SYNC Start=972287><P Class=KRCC>
+그건 갑자기 찾아왔다
+<SYNC Start=974220><P Class=KRCC>&nbsp;
+<SYNC Start=974463><P Class=KRCC>
+지금까지 방송에 공헌한<br>오오시마의 새로운 출발을
+<SYNC Start=978044><P Class=KRCC>
+감동기획으로 보내 드리고 싶어서
+<SYNC Start=981667><P Class=KRCC>&nbsp;
+<SYNC Start=982901><P Class=KRCC>
+긴급기획! 오오시마 마이 졸업 마라톤!
+<SYNC Start=987601><P Class=KRCC>&nbsp;
+<SYNC Start=990213><P Class=KRCC>
+배드 보이스 사타의 제안으로
+<SYNC Start=992314><P Class=KRCC>
+오오시마는 5월 5에<br>홋카이도 도요히라카와에서
+<SYNC Start=995644><P Class=KRCC>
+열리는 하프마라톤에 도전하게 되었다
+<SYNC Start=998676><P Class=KRCC>&nbsp;
+<SYNC Start=999410><P Class=KRCC>
+더욱이!!
+<SYNC Start=1000407><P Class=KRCC>&nbsp;
+<SYNC Start=1001501><P Class=KRCC>
+AKB 멤버인 오호리, 아키모토까지 더해
+<SYNC Start=1004483><P Class=KRCC>
+21Km 전원이서 완주를 목표로 한다
+<SYNC Start=1007452><P Class=KRCC>&nbsp;
+<SYNC Start=1010013><P Class=KRCC>
+4월 모일
+<SYNC Start=1011567><P Class=KRCC>&nbsp;
+<SYNC Start=1013755><P Class=KRCC>
+악천후 속에서 혼자서 연습을<br>시작한 오오시마가 있었다
+<SYNC Start=1017669><P Class=KRCC>&nbsp;
+<SYNC Start=1021150><P Class=KRCC>
+일단 전에 42.195Km 를 달려본적이 있어
+<SYNC Start=1024419><P Class=KRCC>
+그때는(방송까지)시간이 있어서<br>트레이닝이 가능했는데
+<SYNC Start=1028126><P Class=KRCC>
+이번엔 정말로 시간이 없었지만
+<SYNC Start=1030952><P Class=KRCC>
+말을 한 이상은 노력할께요,<br>완주를 노려요
+<SYNC Start=1034488><P Class=KRCC>&nbsp;
+<SYNC Start=1035901><P Class=KRCC>
+마라톤 경험자인 오오시마라서 아는
+<SYNC Start=1039152><P Class=KRCC>
+타이트한 스케쥴에서의 조정의 어려움
+<SYNC Start=1041908><P Class=KRCC>&nbsp;
+<SYNC Start=1042345><P Class=KRCC>
+돌려봐
+<SYNC Start=1043696><P Class=KRCC>
+왼발은 괜찮은데 오른발이 계속 아파요
+<SYNC Start=1047540><P Class=KRCC>
+괜찮으려나...
+<SYNC Start=1048401><P Class=KRCC>
+불안해
+<SYNC Start=1049156><P Class=KRCC>&nbsp;
+<SYNC Start=1050269><P Class=KRCC>
+멤버 앞에선 언제나 웃음을 보이는 오오시마가
+<SYNC Start=1052788><P Class=KRCC>
+드물게도 불안한 모습을 보인다
+<SYNC Start=1055224><P Class=KRCC>&nbsp;
+<SYNC Start=1055642><P Class=KRCC>
+그러자!
+<SYNC Start=1056571><P Class=KRCC>&nbsp;
+<SYNC Start=1057327><P Class=KRCC>
+마이마이
+<SYNC Start=1058594><P Class=KRCC>&nbsp;
+<SYNC Start=1060201><P Class=KRCC>
+왜?(X4)
+<SYNC Start=1061802><P Class=KRCC>
+안녕하세요
+<SYNC Start=1063048><P Class=KRCC>&nbsp;
+<SYNC Start=1063669><P Class=KRCC>
+뭐야? 응원단?
+<SYNC Start=1065408><P Class=KRCC>&nbsp;
+<SYNC Start=1066771><P Class=KRCC>
+오오시마에겐 팀A의<br>후배이기도한 후지에와 나카타
+<SYNC Start=1070640><P Class=KRCC>&nbsp;
+<SYNC Start=1072636><P Class=KRCC>
+제가 팀A에 들어온 직후에<br>혼자서 굉장히 불안했어요
+<SYNC Start=1078641><P Class=KRCC>
+그런 때에 마이마이가<br>저에게 이야기를 걸어줬어요
+<SYNC Start=1082477><P Class=KRCC>&nbsp;
+<SYNC Start=1083216><P Class=KRCC>
+뭐라고 이야기를 걸었나요?
+<SYNC Start=1085299><P Class=KRCC>
+「우엉조림 같이 먹자」라고 했어요
+<SYNC Start=1089029><P Class=KRCC>&nbsp;
+<SYNC Start=1090790><P Class=KRCC>
+그건 후지에가 연구생에서 팀A에
+<SYNC Start=1093792><P Class=KRCC>
+승격하고 얼마 지나지 않을 때의 일
+<SYNC Start=1095568><P Class=KRCC>&nbsp;
+<SYNC Start=1102012><P Class=KRCC>
+주변엔 선배들뿐
+<SYNC Start=1104185><P Class=KRCC>
+후지에는 그속에 뛰어들 용기를 내지 못했다
+<SYNC Start=1107659><P Class=KRCC>&nbsp;
+<SYNC Start=1109309><P Class=KRCC>
+그런 때에...
+<SYNC Start=1110319><P Class=KRCC>&nbsp;
+<SYNC Start=1112590><P Class=KRCC>
+같이 밥 먹을래?
+<SYNC Start=1114015><P Class=KRCC>&nbsp;
+<SYNC Start=1114740><P Class=KRCC>
+네!
+<SYNC Start=1116424><P Class=KRCC>&nbsp;
+<SYNC Start=1118312><P Class=KRCC>
+가장 먼저 말을 걸어준<br>멤버가 오오시마 마이였다
+<SYNC Start=1122220><P Class=KRCC>&nbsp;
+<SYNC Start=1123831><P Class=KRCC>
+정말로 엄청 기뻣어요
+<SYNC Start=1126762><P Class=KRCC>
+지금까지 AKB를 그만두지않았던건
+<SYNC Start=1130327><P Class=KRCC>
+정말로 마이마이의 덕분이라고 생각해요
+<SYNC Start=1132727><P Class=KRCC>&nbsp;
+<SYNC Start=1134066><P Class=KRCC>
+그리고 이날 후지에는 나카타와 함께
+<SYNC Start=1137083><P Class=KRCC>
+마라톤에 참가시켜 달라고 부탁하고있었다
+<SYNC Start=1140310><P Class=KRCC>&nbsp;
+<SYNC Start=1141355><P Class=KRCC>
+그런 후지에를 오오시마는...
+<SYNC Start=1143678><P Class=KRCC>&nbsp;
+<SYNC Start=1145066><P Class=KRCC>
+후지에는 지금까지<br>계속 귀여워 했으니 걱정이에요
+<SYNC Start=1150007><P Class=KRCC>
+싫다고 계속 말했어요
+<SYNC Start=1151401><P Class=KRCC>
+졸업 발표하고 부터
+<SYNC Start=1153189><P Class=KRCC>
+그러니 매일 메일도 하고... 걱정이네요
+<SYNC Start=1157527><P Class=KRCC>&nbsp;
+<SYNC Start=1159178><P Class=KRCC>
+AKB를 졸업한 후의 자신의 일보다
+<SYNC Start=1162364><P Class=KRCC>
+후지에를 걱정하는 오오시마
+<SYNC Start=1164794><P Class=KRCC>&nbsp;
+<SYNC Start=1165787><P Class=KRCC>
+그런 마음을 알고 있으니
+<SYNC Start=1167563><P Class=KRCC>
+오오시마가 안심하고 졸업했으면 하는 후지에
+<SYNC Start=1170757><P Class=KRCC>&nbsp;
+<SYNC Start=1172618><P Class=KRCC>
+후지에에게 있어 이번 마라톤을 완주하는건
+<SYNC Start=1175991><P Class=KRCC>
+오오시마에게 성장한 모습을 보이는 것과
+<SYNC Start=1178598><P Class=KRCC>
+동시에 자신의 성장을 위한 도전이기도 했다
+<SYNC Start=1182355><P Class=KRCC>&nbsp;
+<SYNC Start=1183401><P Class=KRCC>
+걷지않고 완주했으면 좋겠어, 모두 함께말야
+<SYNC Start=1186497><P Class=KRCC>&nbsp;
+<SYNC Start=1189431><P Class=KRCC>
+수일후
+<SYNC Start=1190842><P Class=KRCC>&nbsp;
+<SYNC Start=1192149><P Class=KRCC>
+연습을 개시한 오호리,<br>아키모토의 모습이 있었다
+<SYNC Start=1196001><P Class=KRCC>&nbsp;
+<SYNC Start=1198897><P Class=KRCC>
+고교시절 마라톤에서<br>5Km정도 달린 경험뿐이라서
+<SYNC Start=1202411><P Class=KRCC>
+처음으로 미지에의 도전이지만
+<SYNC Start=1205502><P Class=KRCC>
+자신은 있어요
+<SYNC Start=1207124><P Class=KRCC>
+마음만 있다면 절대로 할수있다고 생각해요
+<SYNC Start=1210670><P Class=KRCC>&nbsp;
+<SYNC Start=1211256><P Class=KRCC>
+한편 25살의 오호리는 불안함을 보인다
+<SYNC Start=1214875><P Class=KRCC>&nbsp;
+<SYNC Start=1215252><P Class=KRCC>
+솔직히 체력이 버텨줄까
+<SYNC Start=1218170><P Class=KRCC>
+굉장히 걱정되지만
+<SYNC Start=1220070><P Class=KRCC>
+그래도 마이짱의 졸업이니
+<SYNC Start=1223517><P Class=KRCC>
+새로운 출발을 축복하며
+<SYNC Start=1225538><P Class=KRCC>
+있는 힘을 다해 달리고 싶어요
+<SYNC Start=1228957><P Class=KRCC>&nbsp;
+<SYNC Start=1229819><P Class=KRCC>
+그런 두사람에게 트레이너인 히라노상은...
+<SYNC Start=1233020><P Class=KRCC>&nbsp;
+<SYNC Start=1233230><P Class=KRCC>
+달리는게 익숙해지는거니까
+<SYNC Start=1234852><P Class=KRCC>
+먼저 레이스에서 목표로 삼은 페이스의
+<SYNC Start=1237394><P Class=KRCC>
+스피드로 달리는게 익숙해진다
+<SYNC Start=1239215><P Class=KRCC>
+그게 안되면 21Km란 거리는 힘들꺼라 생각해요
+<SYNC Start=1243706><P Class=KRCC>&nbsp;
+<SYNC Start=1245008><P Class=KRCC>
+하프마라톤이라지만 절대로 쉽게 보면 안된다
+<SYNC Start=1248951><P Class=KRCC>
+계획적인 트레이닝이 필요불가결하다
+<SYNC Start=1252482><P Class=KRCC>
+엄한 히라노상의 말이 무겁게 다가온다
+<SYNC Start=1256160><P Class=KRCC>&nbsp;
+<SYNC Start=1258794><P Class=KRCC>
+각자의 생각을 가슴에 담고...
+<SYNC Start=1261167><P Class=KRCC>&nbsp;
+<SYNC Start=1263134><P Class=KRCC>
+5명의 마라톤 도전이 시작됐다...
+<SYNC Start=1267980><P Class=KRCC>&nbsp;
+<SYNC Start=1271222><P Class=KRCC>
+드디어 시동! 소문의 어덜트 유닛!
+<SYNC Start=1273624><P Class=KRCC>
+SDN48의 오디션이 개최결정!
+<SYNC Start=1277183><P Class=KRCC>
+자세한 내용은 AKB48 공식 사이트에서
+<SYNC Start=1279983><P Class=KRCC>
+거기다!
+<SYNC Start=1281943><P Class=KRCC>
+AKB48 해외진출결정!
+<SYNC Start=1285420><P Class=KRCC>&nbsp;
+<SYNC Start=1286313><P Class=KRCC>
+전날 SKE48가 홍콩 라이브를 개최!
+<SYNC Start=1289513><P Class=KRCC>
+현지팬과 함께 흥겁게 대성공 했습니다
+<SYNC Start=1293233><P Class=KRCC>
+그리고 이번 여름 AKB가 프랑스 진출!
+<SYNC Start=1296824><P Class=KRCC>&nbsp;
+<SYNC Start=1297901><P Class=KRCC>
+잠시후에 팀K 보물 영상 대공개!
+<SYNC Start=1301461><P Class=KRCC>&nbsp;
+<SYNC Start=1304108><P Class=KRCC>
+자 오늘밤은 AKB48 시어터에서
+<SYNC Start=1306938><P Class=KRCC>
+대호평인 팀K 최신공연<font color=hotpink><b>「逆上がり」</b></font>에서
+<SYNC Start=1310659><P Class=KRCC>
+공연 타이틀과 같은 이곡!
+<SYNC Start=1312580><P Class=KRCC>
+<font color=hotpink><b>「逆上がり」</b></font>를 TV 첫공개로 보내드립니다
+<SYNC Start=1315756><P Class=KRCC>&nbsp;
+<SYNC Start=1318238><P Class=KRCC>
+　 　<br><font color=peachpuff>몇년인가 만에 찾은 교정의 한 모퉁이에
+<SYNC Start=1325517><P Class=KRCC>
+　 　<br><font color=peachpuff>정겹네
+<SYNC Start=1329339><P Class=KRCC>
+　 　<br><font color=peachpuff>이 철봉
+<SYNC Start=1333357><P Class=KRCC>
+　 　<br><font color=peachpuff>이렇게 낮았던가
+<SYNC Start=1337713><P Class=KRCC>
+　 　<br><font color=peachpuff>허리밖에 안오는데
+<SYNC Start=1340943><P Class=KRCC>
+　 　<br><font color=peachpuff>그시절엔 무서웠어
+<SYNC Start=1348212><P Class=KRCC>
+　 　<br><font color=peachpuff>매미소리가 추억을 떠오르게해
+<SYNC Start=1356401><P Class=KRCC>
+　 　<br><font color=peachpuff>여름날에 하얀 블라우스에 땀이 배여 있었지
+<SYNC Start=1364401><P Class=KRCC>
+　 　<br><font color=peachpuff>거꾸로 오르기
+<SYNC Start=1366568><P Class=KRCC>
+　 　<br><font color=peachpuff>발로 지면을 차서
+<SYNC Start=1371855><P Class=KRCC>
+　 　<br><font color=peachpuff>태양이 빙글하고 돌았어
+<SYNC Start=1379515><P Class=KRCC>
+逆上がり<br><font color=peachpuff>거꾸로 오르기
+<SYNC Start=1382214><P Class=KRCC>
+あの時の男の子<br><font color=peachpuff>그때 그 남자아이
+<SYNC Start=1387715><P Class=KRCC>
+好きだとは言えなかったけれど<br><font color=peachpuff>좋아한다고 말을 못했었지만
+<SYNC Start=1397545><P Class=KRCC>&nbsp;
+<SYNC Start=1402043><P Class=KRCC>
+<font color=aquamarine>아이돌의 있는 그대로의 모습을 보여준다!<br>오오시마 졸업기획으로 감동적인 이야기가!
+<SYNC Start=1409908><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>
